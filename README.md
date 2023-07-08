@@ -66,3 +66,14 @@ namespace Program {
     }
 }
 ```
+
+## Ещё один локальный коммит из п. 3
+Hello world на C++:
+```cpp
+#include <iostream>
+
+int main() {
+    std::cout << "Hello World!\n";
+    return 0;
+}
+```
