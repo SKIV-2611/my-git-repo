@@ -1,2 +1,3 @@
-тот файл должен попасть в git.
-This file is modified in branch 'feature-X'.
+Этот файл должен попасть в git.
+This file has been modified in branch 'feature-X'.
+This file is changed in branch 'feature-Y'.
