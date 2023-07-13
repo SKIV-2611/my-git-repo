@@ -1,1 +1,2 @@
 тот файл должен попасть в git.
+This file is modified in branch 'feature-X'.
